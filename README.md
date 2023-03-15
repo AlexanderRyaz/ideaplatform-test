@@ -3,7 +3,7 @@
 ````
 mvn clean compile package
 ````
-и запустить командной строке с помощью
+и запустить в командной строке с помощью
 ````
 java -jar ideaplatform-1.0-SNAPSHOT.jar
 ````
